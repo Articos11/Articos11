@@ -1,13 +1,13 @@
-<h1> align="center">Oi 👋, Me chamo Vinicius Caldas de Oliveira</h1>
-<h3 align="center">Atualmente cursando Ciência da computação na UFPE)</h3>
+<h1 align="center">Oi 👋, Me chamo Vinicius Caldas de Oliveira</h1>
+<h3 align="center">Atualmente cursando Ciência da computação na UFPE</h3>
 
-- 🌱 I’m currently learning **C++, C, Data Structures**
+- 🌱 Estou aprendendo os básicos de **C++, C, Data Structures**
 
 - 💬 Pode falar comigo sobre **básicos de Python**
 
-- 📫 Me contate por **vco@cin.ufpe.br**
+- 📫 Pode me encontrar em: **vco@cin.ufpe.br**
 
-- ⚡ Fun fact **Eu queria ser pediatra quando criança.**
+- ⚡ Coisas aleatórias: **Eu queria ser pediatra quando criança.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
