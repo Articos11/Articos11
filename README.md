@@ -3,7 +3,7 @@
 
 - 🌱 Estou aprendendo os básicos de **C++, C, Data Structures**
 
-- 💬 Pode falar comigo sobre **básicos de Python**
+- 💬 Pode falar comigo sobre **Python**
 
 - 📫 Pode me encontrar em: **vco@cin.ufpe.br**
 
