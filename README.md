@@ -1,13 +1,13 @@
 <h1 align="center">Oi 👋, Me chamo Vinicius Caldas de Oliveira</h1>
 <h3 align="center">Atualmente cursando Ciência da computação na UFPE</h3>
 
-- 🌱 Estou aprendendo os básicos de **C++, C, Data Structures**
+- 🌱 Estou aprendendo os básicos de **Full-Stack Development**
 
-- 💬 Pode falar comigo sobre **Python**
+- 💬 Pode falar comigo sobre **Python, C++**
 
 - 📫 Pode me encontrar em: **vco@cin.ufpe.br**
 
-- ⚡ Coisas aleatórias: **Eu queria ser pediatra quando criança.**
+- ⚡ Coisas aleatórias: **Sabia que o Tubarão-Branco adulto tem cerca de 3 mil dentes?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
