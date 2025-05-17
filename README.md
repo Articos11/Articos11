@@ -9,7 +9,7 @@
 
 - ⚡ Coisas aleatórias: **Sabia que o Tubarão-Branco adulto tem cerca de 3 mil dentes?**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vinicius-caldas-8568271b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius-caldas-8568271b4" height="30" width="40" /></a>
 </p>
