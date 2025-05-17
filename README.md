@@ -15,6 +15,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cpp,mysql,php)](https://skillicons.dev)
-</p>
