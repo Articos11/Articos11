@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Me chamo Vinicius Caldas de Oliveira</h1>
 <h3 align="center">Atualmente cursando Ciência da computação na UFPE</h3>
 
-- 🌱 Estou aprendendo os básicos de **Full-Stack Development**
+- 🌱 Estou focado totalmente em desenvolvimento web com foco em backend.**
 
-- 💬 Pode falar comigo sobre **Python, C++**
+- 💬 Pode falar comigo sobre **MERN, FARM, React, Python, Javascript, entre outros**
 
 - 📫 Pode me encontrar em: **vco@cin.ufpe.br**
 
